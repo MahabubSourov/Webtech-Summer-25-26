@@ -1,0 +1,39 @@
+html{
+    border: 3px solid black;
+    margin: 10px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+}
+
+h2{
+    text-align: center;
+    color: blue;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    border: 2px solid blue;
+    padding: 15px;
+    background-color: rgb(48, 172, 206);
+}
+
+td{
+    padding: 10px;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+}
+
+input[type="submit"],
+input[type="reset"]{
+    width: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
